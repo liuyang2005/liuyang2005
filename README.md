@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-- 🇨🇳Sophomore at Shanghai Jiaotong University, aka [SJTU](sjtu.edu.cn).
+- 🇨🇳Sophomore at Shanghai Jiaotong University, aka [SJTU](https://www.sjtu.edu.cn/).
 - 🧑‍🏫Currently majoring in automation in SEIEE department.
 - ✨C++/Python, just a beginner tho.
 - 💻Currently learning JAVA & Data Structure & Machine Learning.

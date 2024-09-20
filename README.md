@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## About Me
+- 🇨🇳 Sophomore at Shanghai Jiaotong University, aka [SJTU](sjtu.edy.cn).
+- 🧑‍🏫Currently majoring in automation in SEIEE department.
+- ✨C++/Python, just a beginner tho.
+- 💻Currently learning JAVA & Data Structure & Machine Learning.
+- 🎞️A huge lover of American TV series & K-drama.
+- AMA at [Telegram](https://t.me/jing_hong_ke)
 <!--
 **liuyang2005/liuyang2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

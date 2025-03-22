@@ -3,10 +3,10 @@
 ## About Me
 - 🇨🇳Sophomore at Shanghai Jiaotong University, aka [SJTU](https://www.sjtu.edu.cn/).
 - 🧑‍🏫Currently majoring in automation in SEIEE department.
-- ✨C++/Python, just a beginner tho.
 - 💻Currently learning JAVA & Data Structure & Machine Learning.
 - 🎞️A huge lover of American TV series & K-drama.
 - AMA at [Telegram](https://t.me/jing_hong_ke)
+- 🔭Wanna know me more?Click my [blog](https://liuyang2005.github.io/)
 <!--
 **liuyang2005/liuyang2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
